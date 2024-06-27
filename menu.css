@@ -1,0 +1,25 @@
+*{
+  padding:0px;
+  margin: 0px;
+}
+.non-veg{
+  background-color: lightcoral;
+  border-color: darkviolet;
+  border-width:10px;
+  border-style:solid;
+  margin: 10px;
+  border-radius: 30px;
+}
+img{
+  border-radius: 20px;
+  width:250px;
+  margin-top: 6px;
+}
+p{
+  color: black;
+}
+p:hover{
+  background-color: white;
+  color: green;
+  border-radius: 100px;
+}
